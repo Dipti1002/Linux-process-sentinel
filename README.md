@@ -1,4 +1,4 @@
-# 🛡️ Linux Process Guardian
+# 🛡️ Linux Process Sentinel
 
 A lightweight Linux process monitoring system that combines a **C++ user-space application** with a **Linux kernel character device driver** to monitor system processes, CPU usage, memory usage, and resource threshold violations.
 
